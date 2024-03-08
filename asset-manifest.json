@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/EcoFerma-DonCip-main/static/css/main.8250efef.css",
-    "main.js": "/EcoFerma-DonCip-main/static/js/main.a8da6184.js",
+    "main.css": "/EcoFerma-DonCip-main/static/css/main.c693f8f9.css",
+    "main.js": "/EcoFerma-DonCip-main/static/js/main.bc6f44e6.js",
     "static/js/453.ed3810f9.chunk.js": "/EcoFerma-DonCip-main/static/js/453.ed3810f9.chunk.js",
     "static/media/pexels-peter-steele-14248086.jpg": "/EcoFerma-DonCip-main/static/media/pexels-peter-steele-14248086.e80fc5a72b8a260c75d1.jpg",
     "static/media/download.jpg": "/EcoFerma-DonCip-main/static/media/download.67b7d4cb9dcef2f82c19.jpg",
@@ -12,12 +12,12 @@
     "static/media/leaf12.png": "/EcoFerma-DonCip-main/static/media/leaf12.91d6d155720f622b53f5.png",
     "static/media/leaf11.png": "/EcoFerma-DonCip-main/static/media/leaf11.2a2fb1e66054a613b0de.png",
     "index.html": "/EcoFerma-DonCip-main/index.html",
-    "main.8250efef.css.map": "/EcoFerma-DonCip-main/static/css/main.8250efef.css.map",
-    "main.a8da6184.js.map": "/EcoFerma-DonCip-main/static/js/main.a8da6184.js.map",
+    "main.c693f8f9.css.map": "/EcoFerma-DonCip-main/static/css/main.c693f8f9.css.map",
+    "main.bc6f44e6.js.map": "/EcoFerma-DonCip-main/static/js/main.bc6f44e6.js.map",
     "453.ed3810f9.chunk.js.map": "/EcoFerma-DonCip-main/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8250efef.css",
-    "static/js/main.a8da6184.js"
+    "static/css/main.c693f8f9.css",
+    "static/js/main.bc6f44e6.js"
   ]
 }
