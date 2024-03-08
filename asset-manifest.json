@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/EcoFerma-DonCip/static/css/main.8250efef.css",
-    "main.js": "/EcoFerma-DonCip/static/js/main.f4792e5a.js",
-    "static/js/453.ed3810f9.chunk.js": "/EcoFerma-DonCip/static/js/453.ed3810f9.chunk.js",
-    "static/media/pexels-peter-steele-14248086.jpg": "/EcoFerma-DonCip/static/media/pexels-peter-steele-14248086.e80fc5a72b8a260c75d1.jpg",
-    "static/media/download.jpg": "/EcoFerma-DonCip/static/media/download.67b7d4cb9dcef2f82c19.jpg",
-    "static/media/farm2-home-pic5.jpg": "/EcoFerma-DonCip/static/media/farm2-home-pic5.4f997f42bf5e30665587.jpg",
-    "static/media/Снимок экрана 2024-03-03 151023-Photoroom.png-Photoroom.png": "/EcoFerma-DonCip/static/media/Снимок экрана 2024-03-03 151023-Photoroom.png-Photoroom.40b126d6538629ccc7d5.png",
-    "static/media/ferm-ecologică-vaci.jpg": "/EcoFerma-DonCip/static/media/ferm-ecologică-vaci.8f0ec593e48c346c43b0.jpg",
-    "static/media/soil-association-pigs.avif": "/EcoFerma-DonCip/static/media/soil-association-pigs.f7179968c68e7abc5268.avif",
-    "static/media/leaf12.png": "/EcoFerma-DonCip/static/media/leaf12.91d6d155720f622b53f5.png",
-    "static/media/leaf11.png": "/EcoFerma-DonCip/static/media/leaf11.2a2fb1e66054a613b0de.png",
-    "index.html": "/EcoFerma-DonCip/index.html",
-    "main.8250efef.css.map": "/EcoFerma-DonCip/static/css/main.8250efef.css.map",
-    "main.f4792e5a.js.map": "/EcoFerma-DonCip/static/js/main.f4792e5a.js.map",
-    "453.ed3810f9.chunk.js.map": "/EcoFerma-DonCip/static/js/453.ed3810f9.chunk.js.map"
+    "main.css": "/EcoFerma-DonCip-main/static/css/main.8250efef.css",
+    "main.js": "/EcoFerma-DonCip-main/static/js/main.a8da6184.js",
+    "static/js/453.ed3810f9.chunk.js": "/EcoFerma-DonCip-main/static/js/453.ed3810f9.chunk.js",
+    "static/media/pexels-peter-steele-14248086.jpg": "/EcoFerma-DonCip-main/static/media/pexels-peter-steele-14248086.e80fc5a72b8a260c75d1.jpg",
+    "static/media/download.jpg": "/EcoFerma-DonCip-main/static/media/download.67b7d4cb9dcef2f82c19.jpg",
+    "static/media/farm2-home-pic5.jpg": "/EcoFerma-DonCip-main/static/media/farm2-home-pic5.4f997f42bf5e30665587.jpg",
+    "static/media/Снимок экрана 2024-03-03 151023-Photoroom.png-Photoroom.png": "/EcoFerma-DonCip-main/static/media/Снимок экрана 2024-03-03 151023-Photoroom.png-Photoroom.40b126d6538629ccc7d5.png",
+    "static/media/ferm-ecologică-vaci.jpg": "/EcoFerma-DonCip-main/static/media/ferm-ecologică-vaci.8f0ec593e48c346c43b0.jpg",
+    "static/media/soil-association-pigs.avif": "/EcoFerma-DonCip-main/static/media/soil-association-pigs.f7179968c68e7abc5268.avif",
+    "static/media/leaf12.png": "/EcoFerma-DonCip-main/static/media/leaf12.91d6d155720f622b53f5.png",
+    "static/media/leaf11.png": "/EcoFerma-DonCip-main/static/media/leaf11.2a2fb1e66054a613b0de.png",
+    "index.html": "/EcoFerma-DonCip-main/index.html",
+    "main.8250efef.css.map": "/EcoFerma-DonCip-main/static/css/main.8250efef.css.map",
+    "main.a8da6184.js.map": "/EcoFerma-DonCip-main/static/js/main.a8da6184.js.map",
+    "453.ed3810f9.chunk.js.map": "/EcoFerma-DonCip-main/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8250efef.css",
-    "static/js/main.f4792e5a.js"
+    "static/js/main.a8da6184.js"
   ]
 }
