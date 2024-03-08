@@ -4,9 +4,10 @@ import bg_header from '../img/download.jpg';
 
 type HeaderProps = {
   title: string;
+  text: string;
 };
 
-const Header: React.FC<HeaderProps> = ({ title }) => {
+const Header: React.FC<HeaderProps> = ({ title, text }) => {
   useEffect(() => {
     const handleScroll = () => {
       const scrollTop = window.pageYOffset;
@@ -33,7 +34,15 @@ const Header: React.FC<HeaderProps> = ({ title }) => {
             initial={{ opacity: 0, y: -50 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.5, delay: 0.2 }}
-            className="font-bold text-green-900 text-3xl md:text-5xl absolute top-0 pt-32 xl:w-2/4"
+            className="text-green-50 text-3xl md:text-5xl font-bold absolute top-0 pt-28"
+          >
+            {text}
+          </motion.div>
+          <motion.div
+            initial={{ opacity: 0, y: -50 }}
+            animate={{ opacity: 1, y: 0 }}
+            transition={{ duration: 0.5, delay: 0.5 }}
+            className="font-bold text-green-900 text-3xl md:text-5xl absolute top-0 pt-44 xl:w-2/4"
           >
             {title}
           </motion.div>

@@ -17,6 +17,7 @@ function App() {
       <Nav/>
       <Header 
         title="Bine ați venit în locul în care se naște aroma naturală"
+        text="EcoFerma DonCip"
       />
       <About
         title="Despre EcoFerna DonCip"
