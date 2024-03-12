@@ -1,6 +1,5 @@
 import React from 'react';
 import Header from './component/Header';
-import Nav from './component/Nav';
 import CardInfo from './component/CardInfo';
 import About from './component/About';
 
@@ -14,7 +13,6 @@ import InfoBlock from "./component/InfoBlock";
 function App() {
   return (
     <div className="bg-amber-50">
-      <Nav/>
       <Header 
         title="Bine ați venit în locul în care se naște aroma naturală"
         text="EcoFerma DonCip"

@@ -32,7 +32,7 @@ const CardInfo: React.FC<CardInfoProps> = ({ title, text, variant, img, titleTex
         transition={{ duration: 0.5 }}
       >
         <motion.img
-          className="shadow-green-100 shadow-lg rounded-tl-3xl rounded-br-3xl w-full md:w-2/4 object-cover h-full transition duration-500"
+          className="rounded-tl-3xl rounded-br-3xl w-full md:w-2/4 object-cover h-full transition duration-500"
           src={img}
           alt=""
           initial={{ opacity: 0, scale: 0.9 }}

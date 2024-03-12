@@ -8,26 +8,18 @@ type HeaderProps = {
 };
 
 const Header: React.FC<HeaderProps> = ({ title, text }) => {
-  useEffect(() => {
-    const handleScroll = () => {
-      const scrollTop = window.pageYOffset;
-      const parallaxElements = document.querySelectorAll('.parallax') as NodeListOf<HTMLElement>;
-      parallaxElements.forEach(element => {
-        const speed = parseFloat(element.getAttribute('data-speed') || '0.5');
-        element.style.transform = `translateY(${scrollTop * speed}px)`;
-      });
-    };
-
-    window.addEventListener('scroll', handleScroll);
-
-    return () => {
-      window.removeEventListener('scroll', handleScroll);
-    };
-  }, []);
 
   return (
     <header className="relative overflow-hidden">
-      <img className="w-full h-dvh object-cover parallax" data-speed="0.5" src={bg_header} alt="" />
+      <motion.img
+        initial={{ scale: 1 }}
+        animate={{ scale: [1, 1.2, 1] }}
+        transition={{ duration: 20, repeat: Infinity }}
+        className="w-full h-dvh object-cover "
+        data-speed="0.5"
+        src={bg_header}
+        alt=""
+      />
       <div className="container mx-auto max-w-6xl">
         <div className="flex justify-center text-center px-4 xl:px-0">
           <motion.div

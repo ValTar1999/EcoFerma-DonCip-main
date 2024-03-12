@@ -15,15 +15,15 @@ const InfoBlock: React.FC<InfoBlockProps> = ({ title, content }) => {
     });
 
     const { scrollY } = useViewportScroll();
-    const translateY = useTransform(scrollY, [0, 2000], [-300, 0]); // Adjust range as needed
+    const translateY = useTransform(scrollY, [0, 2000], [-400, 0]); // Adjust range as needed
 
     return (
         <div className="bg-green-900 relative overflow-hidden">
-            <motion.img
-                className="w-2/3 h-full object-cover top-[170px] absolute right-0 opacity-40"
+           <motion.img
+                className="w-full h-full object-cover top-48 absolute right-0 opacity-40"
                 src={bg_img}
                 alt=""
-                style={{ y: inView ? translateY : 0 }}
+                style={{ y: inView ? translateY : 0, scale: inView ? 1.2 : 1 }}
             />
             <div className="container max-w-6xl px-4 mx-auto py-32 relative" ref={ref}>
                 <h2 className="text-3xl text-green-100 font-bold">{title}</h2>

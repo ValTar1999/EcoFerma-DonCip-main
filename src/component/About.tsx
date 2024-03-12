@@ -34,12 +34,12 @@ const About: React.FC<AboutProps> = ({ title, text }) => {
       className="container mx-auto max-w-2xl text-center py-12 xl:py-28 relative overflow-hidden"
     >
       <motion.img
-        className="absolute right-0 w-40 h-auto opacity-10"
+        className="absolute right-0 w-40 h-auto"
         src={img1}
         alt=""
         initial={{ opacity: 0, x: 100 }}
         animate={inView ? { opacity: 0.1, x: 0 } : { opacity: 0, x: 100 }}
-        transition={{ duration: 0.5 }}
+        transition={{ duration: 1 }}
       />
       <motion.h2
         className="text-3xl font-bold text-green-900 md:text-5xl"
