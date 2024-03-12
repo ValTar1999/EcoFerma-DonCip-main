@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/EcoFerma-DonCip-main/static/css/main.f886a3ec.css",
-    "main.js": "/EcoFerma-DonCip-main/static/js/main.68c5ac67.js",
+    "main.css": "/EcoFerma-DonCip-main/static/css/main.1a95d100.css",
+    "main.js": "/EcoFerma-DonCip-main/static/js/main.6313b9a7.js",
     "static/js/453.ed3810f9.chunk.js": "/EcoFerma-DonCip-main/static/js/453.ed3810f9.chunk.js",
     "static/media/pexels-peter-steele-14248086.jpg": "/EcoFerma-DonCip-main/static/media/pexels-peter-steele-14248086.e80fc5a72b8a260c75d1.jpg",
     "static/media/download.jpg": "/EcoFerma-DonCip-main/static/media/download.67b7d4cb9dcef2f82c19.jpg",
     "static/media/farm2-home-pic5.jpg": "/EcoFerma-DonCip-main/static/media/farm2-home-pic5.4f997f42bf5e30665587.jpg",
-    "static/media/Снимок экрана 2024-03-03 151023-Photoroom.png-Photoroom.png": "/EcoFerma-DonCip-main/static/media/Снимок экрана 2024-03-03 151023-Photoroom.png-Photoroom.40b126d6538629ccc7d5.png",
     "static/media/ferm-ecologică-vaci.jpg": "/EcoFerma-DonCip-main/static/media/ferm-ecologică-vaci.8f0ec593e48c346c43b0.jpg",
     "static/media/soil-association-pigs.avif": "/EcoFerma-DonCip-main/static/media/soil-association-pigs.f7179968c68e7abc5268.avif",
     "static/media/agronomy.png": "/EcoFerma-DonCip-main/static/media/agronomy.450690b18f2b9cb8aa8c.png",
     "static/media/leaf12.png": "/EcoFerma-DonCip-main/static/media/leaf12.91d6d155720f622b53f5.png",
     "static/media/leaf11.png": "/EcoFerma-DonCip-main/static/media/leaf11.2a2fb1e66054a613b0de.png",
     "index.html": "/EcoFerma-DonCip-main/index.html",
-    "main.f886a3ec.css.map": "/EcoFerma-DonCip-main/static/css/main.f886a3ec.css.map",
-    "main.68c5ac67.js.map": "/EcoFerma-DonCip-main/static/js/main.68c5ac67.js.map",
+    "main.1a95d100.css.map": "/EcoFerma-DonCip-main/static/css/main.1a95d100.css.map",
+    "main.6313b9a7.js.map": "/EcoFerma-DonCip-main/static/js/main.6313b9a7.js.map",
     "453.ed3810f9.chunk.js.map": "/EcoFerma-DonCip-main/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f886a3ec.css",
-    "static/js/main.68c5ac67.js"
+    "static/css/main.1a95d100.css",
+    "static/js/main.6313b9a7.js"
   ]
 }
